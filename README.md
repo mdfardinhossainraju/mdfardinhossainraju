@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Md fardin Hossain Raju
+Graphic Designer | Brand Identity |  Visual Systems  
 
-<!--
-**mdfardinhossainraju/mdfardinhossainraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help brands communicate with clarity and impact through strategic design.
+   Specializations
+- Brand Identity Design
+- Logo Systems
+- Design Systems
+- Typography & Layout
+- Creative Direction
+## 🛠 Tools
+ Adobe Illustrator • Adobe Photoshop • Canva • Figma
+Portfolio
+https://www.behance.net/fardinhossainraju
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+Email: mdfardinhossainraju@gmail.com
+LinkedIn: https://www.linkedin.com/in/md-fardin-hossain-raju960/
